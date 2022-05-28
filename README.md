@@ -41,6 +41,8 @@ To prepare connection for domain with font files:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 ```
 
+<div style="page-break-after: always;"></div>
+
 ## 3. Scripts
 
 To defer the loading of a script, convert a script tag with an src attribute by adding the `defer` attribute, going from:
