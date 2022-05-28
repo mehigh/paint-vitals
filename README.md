@@ -77,3 +77,9 @@ Attribute to add to hint the priority level on Largest Contentful Paint images, 
 ```html
 <img src="x.jpg" fetchpriority="high" decoding="async" ...>
 ```
+
+Start your Paint Vitals optimizations journey at:
+[cutt.ly/paint-vitals](https://cutt.ly/paint-vitals)
+
+Solutions / follow along at:
+[github.com/mehigh/paint-vitals](https://github.com/mehigh/paint-vitals)
